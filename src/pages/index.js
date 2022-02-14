@@ -29,7 +29,7 @@ const IndexPage = () => {
       <SubText>
         Learn more at{" "}
         <a href="https://www.poapathon.com/cryptogs" target="_blank">
-          POAPaton
+          POAPathon
         </a>
       </SubText>
     </Main>
